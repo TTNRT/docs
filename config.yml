@@ -1,2 +1,4 @@
 title: TTNRT Docs
 remote_theme: carlosperate/jekyll-theme-rtd
+plugins:
+  - jekyll-remote-theme
